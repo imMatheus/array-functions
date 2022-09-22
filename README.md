@@ -47,7 +47,7 @@ const purchases = [
 Du jobbar på marknadsföringsavdelningen på ett tech företag och du har en lång lista på användare runt om i värden, du vill kunna hitta alla användare som bor i en viss stad. Skriv en funktion med namnet **findUsersInCity** som tar emot **två** argument, en array av användare som ser ut som exemplet nedan och en string som ska repsentera vilken stad du letar efter. Med array:n nedan och **"Stockholm"** som det andra argumentet ska din funktion returnera
 
 ```js
-;[
+[
     { name: 'Leo Pato', address: { city: 'Stockholm', zip: '195 58' } },
     { name: 'Moa Persson', address: { city: 'Stockholm', zip: '163 12' } },
 ]
